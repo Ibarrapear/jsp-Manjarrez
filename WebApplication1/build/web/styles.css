@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 10 mar 2023, 12:02:57
+    Author     : alumno
+*/
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+.card {
+  max-width: 100%;
+}
+.uno h1{
+    text-align: center;
+} 
+
+
